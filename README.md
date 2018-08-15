@@ -1,4 +1,5 @@
-# multi-view
+# vue-multiple_views-vs-module_wrapper
+> comparison of vue multiple views vs module wrapper
 
 ## Project setup
 ```
@@ -10,7 +11,6 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+
+# Important
+> the comparison between using multi views objects or "module wrapper" ideas just navigate on the Settings and Settings Module menus
